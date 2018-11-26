@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Address
+1,Yes,,TC_23_VerifySearchingWithSpecialCharsDoNotResultError,Verify searching with special chars do not result error,renuka.chintala@cigniti.com,hyderabad12345,#OClientId,55 water st|

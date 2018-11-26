@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Hierarchy
+1,Yes,,TC_16_VerifyUserWithOneHierarchyCannotSearchLocationsWithOtherHierarchy,Verify user with one hierarchy cannot search locations with other hierarchy,renuka.chintala@cigniti.com,hyderabad12345,9994,FSIS

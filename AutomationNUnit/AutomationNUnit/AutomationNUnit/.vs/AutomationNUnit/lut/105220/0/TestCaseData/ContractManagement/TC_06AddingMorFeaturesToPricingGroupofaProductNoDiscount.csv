@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,CostPageMonth,ClientId,Address,Postal,Test,Category,SubCategory,Product,PreconditionExec,DiscountType,Module,SubModule
+1,Yes,,TC_06AddingMorFeaturesToPricingGroupofaProductNoDiscount,Verify discounts will be added under Product Pricing group,renuka.chintala@cigniti.com,hyderabad12345,January 2015 - February 2015,83784,160 Broadway,10038,Test,Data & Network,Features,Class of Service (CoS) - Premium,Yes,No Discount,Billing,Contract Management

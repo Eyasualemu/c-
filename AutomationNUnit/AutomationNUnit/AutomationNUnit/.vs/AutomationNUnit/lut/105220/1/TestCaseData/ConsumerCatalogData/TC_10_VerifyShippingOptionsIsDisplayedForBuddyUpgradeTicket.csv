@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Topic,TicketUser,ProductType,Vendor,Product,QTY,subcat,AdditionalInfo,TicName,Hour,Address,Postal,City,State,ChangeTheAddress,Catagory
+1,Yes,,TC_10_VerifyShippingOptionsIsDisplayedForBuddyUpgradeTicket,Browse through hirarchies,renuka.chintala@cigniti.com,hyderabad12345,9994,Buddy Upgrade,Automation User,Smart Phone,Verizon,Apple iPhone 5S (Verizon),4,Smart Phone,TestAdditional,met,9,160 Broadway,10038,New York,NY,Yes,Wireless

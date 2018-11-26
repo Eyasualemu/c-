@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,CostPageMonth,ClientId,Address,Postal,Test,Category,SubCategory,Product,PreconditionExec,SubContract,Module,SubModule
+1,Yes,,TC_04_AddingTheProductUnderSubContract,Verify that the products should add under Sub-contrct,renuka.chintala@cigniti.com,hyderabad12345,January 2015 - February 2015,83784,160 Broadway,10038,Test,Data & Network,IP VPN,CONUS Ethernet,Yes,SO 113318301,Billing,Contract Management

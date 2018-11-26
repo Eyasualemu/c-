@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Category
+1,Yes,,TC_35_VerifyListOfSubCategoriesInNewServicePage,Verify List Of Sub Categories In New Service Page,renuka.chintala@cigniti.com,hyderabad12345,9994,Wireless

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,ClientName
+1,Yes,,TC_19_VerifyStatusOfLineIsDisplayingCorrectWithMettelClient,Search for hierarchy and WTN which belongs to another Client,renuka.chintala@cigniti.com,hyderabad12345,9994,METTEL/NEW YORK

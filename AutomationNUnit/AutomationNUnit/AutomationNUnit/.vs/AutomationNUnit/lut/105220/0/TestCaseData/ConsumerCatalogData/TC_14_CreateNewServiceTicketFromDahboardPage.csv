@@ -1,0 +1,3 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Catagory,subcat,Vendor,Product,QTY,Category_SecondProduct,subcat_SecondProduct,Vendor_SecondProduct,Product_SecondProduct,QTY_SecondProduct,AdditionalInfo,TicName,Hour,Address,Postal,City,State,ChangeTheAddress,ShippingType
+1,Yes,,TC_14_CreateNewServiceTicketFromDahboardPage,Verify User can raise new service request from dashboard,renuka.chintala@cigniti.com,hyderabad12345,9994,Wireless,Smart Phone,Verizon,Apple iPhone 5S (Verizon),2,Wireless,Wireless Router,AT&T,Cradlepoint MBR-1400NM (AT&T),4,TestAdditional,Automation User,9,160 Broadway,10038,New York,NY,No,UPS Ground
+

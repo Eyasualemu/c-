@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,User
+1,Yes,,TC_26_VerifyEditUserInfoButtonAndTicketLinkInTicketsTab,Verify Edit User Info button and Ticket link in Tickets tab,renuka.chintala@cigniti.com,hyderabad12345,9994,James Hicks

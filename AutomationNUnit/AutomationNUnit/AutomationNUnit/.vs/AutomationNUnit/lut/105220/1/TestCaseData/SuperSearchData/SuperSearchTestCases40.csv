@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,ICCID_Number
+1,Yes,,TC_40_SearchWithICCIDnumberAttribute,Verify search results with ICCID number,renuka.chintala@cigniti.com,hyderabad12345,9994,123456789

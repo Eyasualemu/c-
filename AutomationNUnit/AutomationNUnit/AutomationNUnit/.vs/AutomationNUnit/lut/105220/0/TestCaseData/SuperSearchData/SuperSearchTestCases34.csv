@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId
+1,Yes,,TC_34_VerifyThereIsNoClientsFilterForAClientUser,Verify there is no CLIENTS filter for a Client user,gourishankar.nanoota@cigniti.com,cigniti1,9994

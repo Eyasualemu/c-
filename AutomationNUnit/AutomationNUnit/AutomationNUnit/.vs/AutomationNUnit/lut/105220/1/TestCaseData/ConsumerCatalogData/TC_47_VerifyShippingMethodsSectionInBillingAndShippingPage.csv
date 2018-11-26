@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Category,SubCat,Vendor,Product,QTY,Address,Postal,City,State
+1,Yes,,TC_47_VerifyShippingMethodsSectionInBillingAndShippingPage,Verify Shipping Methods in Shipping Details Section In Billing and Shipping Page,renuka.chintala@cigniti.com,hyderabad12345,9994,Wireless,Smart Phone,VERIZON,Apple iPhone 6 Plus (Verizon),4,160 Broadway,10038,New York,NY

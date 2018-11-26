@@ -1,0 +1,10 @@
+TDID,Run,DefectID,UsaidUserName,UsaidPass,FirstName,LastName,IndicatorCode,reportingfrequency,pmp,ppr,datatype,indicatordisaggregateoption,Justification,TargetValue,ActualsValue
+1,NO,,daveomanager@gmail.com,Dave@oumanager21,AutoFirst,AutoLast,EG.4.2-3,Annual,Yes,Yes,Percentage,Nodisabled,Test Justification Data,30,50
+2,NO,,daveomanager@gmail.com,Dave@oumanager21,AutoFirst,AutoLast,EG.5-2,Semi-Annual,Yes,Yes,Decimal,Nodisabled,Test Justification Data,30,50
+3,NO,,daveomanager@gmail.com,Dave@oumanager21,AutoFirst,AutoLast,EG.5.2-1,Monthly,Yes,Yes,Integer,Nodisabled,Test Justification Data,30,50
+4,NO,,daveomanager@gmail.com,Dave@oumanager21,AutoFirst,AutoLast,PS.3-2,Quarterly,No,No,Percentage,Nodisabled,Test Justification Data,30,50
+5,YES,,daveomanager@gmail.com,Dave@oumanager21,AutoFirst,AutoLast,EG.1.1-1,Semi-Annual,Yes,Yes,Percentage,Nodisabled,Test Justification semi annual with percentage,30,50
+
+
+
+

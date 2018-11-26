@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<PageFactory>
+
+
+  <page title ="Login to project">
+
+    
+    <object>
+      <name>NavigationBar</name>
+      <identifyBy>id</identifyBy>
+      <value>query</value>ShowNonMetricBtn
+    </object>
+    
+   <object>
+      <name>Signin_btn</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//button[@class='sign-in']</value>
+    </object>
+    
+   <object>
+      <name>User_EmailTextBox</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//input[@name='j_username']</value>
+    </object>
+
+    <object>
+      <name>footerlnk_pro</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//li[@id='footer-top-links']/descendant::a[text()='Pro']</value>
+    </object>
+    
+  <object>
+      <name>User_PasswordTextBox</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//input[@name='j_password']</value>
+    </object>
+    
+    <object>
+      <name>Login_SiginBtn</name>
+      <identifyBy>id</identifyBy>
+      <value>sign-in-btn</value>
+    </object>
+    
+    <object>
+      <name>ErrorLogin</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//div[@class='alert alert-danger']</value>
+    </object>
+    
+    
+    
+  <object>
+      <name>warningpopup</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//span[@class='icon icon-error-warning-exclamation']</value>
+    </object>
+    
+    <object>
+      <name>User__Sigin_Button</name>
+      <identifyBy>id</identifyBy>
+      <value>sign-in-btn</value>
+    </object>
+    
+    <object>
+      <name>search_Btn</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//input[@title='compute']</value>
+    </object>
+    
+    <object>
+      <name>Radiussun432300</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//h2[text()='Result:']/../following-sibling::div/descendant::a[contains(@href,'432300+miles')]/../../../following-sibling::img</value>
+    </object>
+
+     <object>
+      <name>Kilometers695700</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//h2[text()='Result:']/../following-sibling::div/descendant::a[contains(@href,'695700+kilometers')]/../../../following-sibling::img</value>
+    </object>
+    
+    <object>
+      <name>signOutLink</name>
+      <identifyBy>id</identifyBy>
+      <value>authbox-signout-link</value>
+    </object>
+    
+     <object>
+      <name>ShowMetricBtn</name>
+      <identifyBy>xpath</identifyBy>
+      <value>(//a[text()='Show metric'])[1]</value>
+    </object>
+    
+    <object>
+      <name>Lifetimeofsun</name>
+      <identifyBy>xpath</identifyBy>
+      <value>(//a[contains(@href,'9.8+billion+years')])[1]</value>
+    </object>
+    
+ 
+  
+  </page>
+
+
+</PageFactory>

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,TicketNumUSDA,ClientNum
+1,Yes,,TC_10_VerifyWhenSwitchToClientOnlyTicketsOfThatClientAreSearchable,Verify when switch to a Client and Only tickets of that client are searchable,renuka.chintala@cigniti.com,hyderabad12345,83784,3518456,9994

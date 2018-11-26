@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Address_User
+1,Yes,,TC_05_VerifyAccountLinkInInvoicesTabIsWorking,Verify Account link is working in Invoices tab,balaji.dasari@cigniti.com,hyderabad12345,MUTLI AGENCY GOVERNMENT,1 Beacon St Ste 1500

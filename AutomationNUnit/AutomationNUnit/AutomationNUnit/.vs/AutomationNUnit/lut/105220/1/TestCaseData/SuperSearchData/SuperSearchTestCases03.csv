@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Address_User
+1,Yes,,TC_03_VerifyAccountLinkInInventoryTabIsWorking,Verify the Account link in Inventory tab is working,balaji.dasari@cigniti.com,hyderabad12345,9994,55 water st

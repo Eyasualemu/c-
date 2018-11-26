@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Category,SubCat,Vendor,Product,QTY
+1,Yes,,TC_38_VerifySelectedProductAddedToCart,Verify Selected product Added to cart,renuka.chintala@cigniti.com,hyderabad12345,9994,Wireless,Smart Phone,Verizon,Apple iPhone 6 Plus (Verizon),4

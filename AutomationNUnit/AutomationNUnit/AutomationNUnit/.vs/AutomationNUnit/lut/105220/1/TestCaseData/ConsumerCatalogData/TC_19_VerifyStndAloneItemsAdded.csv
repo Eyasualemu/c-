@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,AdditionalInfo,TicName,Hour,Address,Postal,City,State,ChangeTheAddress,Category,Vendor,Product,QTY,SubCat,Accessory,Accessory1
+1,Yes,,TC_19_VerifyStndAloneItemsAdded,,renuka.chintala@cigniti.com,hyderabad12345,9994,TestAdditional,met,9,160 Broadway,10038,New York,NY,Yes,Wireless,Verizon,Apple iPhone 6 Plus (Verizon),2,Smart Phone,Commuter Series for Apple iPhone 6 Plus, Black

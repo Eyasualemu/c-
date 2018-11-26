@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,WTN_Num,FullAddress
+1,Yes,,TC_12_SearchLocationUsingWTNandCompleteAddress,Search location using WTN and complete address,renuka.chintala@cigniti.com,hyderabad12345,9876543210,1004 10th St S Northwood IA 50459-1844

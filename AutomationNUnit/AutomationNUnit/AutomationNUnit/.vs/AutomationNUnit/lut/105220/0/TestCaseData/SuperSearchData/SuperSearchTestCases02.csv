@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Address_User
+1,Yes,,TC_02_VerifyTicketLinkTicketsTabIsWorking,Verify location search results and Open Location button,renuka.chintala@cigniti.com,hyderabad12345,9994,55 Water St

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Category
+1,Yes,,TC_36_VerifyRecentlyOrderItemsInNewServicePage,Verify Recently Order Items In New Service Page,renuka.chintala@cigniti.com,hyderabad12345,9994,Wireless

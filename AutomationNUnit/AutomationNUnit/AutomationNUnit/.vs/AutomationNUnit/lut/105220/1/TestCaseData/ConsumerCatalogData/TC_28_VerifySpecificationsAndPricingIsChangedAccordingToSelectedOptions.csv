@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Vendor,Product,PlanName,QTY
+1,Yes,,TC_28_VerifySpecificationsAndPricingIsChangedAccordingToSelectedOptions,Verify Specification And Pricing is changed to according to selected options,renuka.chintala@cigniti.com,hyderabad12345,83784,Verizon,BlackBerry 9930 Bold (Verizon),Wireless Roaming Data – 100MB,2

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,CostPageMonth,ClientId,Address,Postal,City,State,ChangeTheAddress,Catagory,Vendor,Product,QTY,subcat
+1,Yes,,TC_02_VerifyOpeningACart,Verification of opening the Cart after adding a Product,renuka.chintala@cigniti.com,hyderabad12345,January 2015 - February 2015,9994,160 Broadway,10038,New York,NY,Yes,Wireless,Verizon,Apple iPhone 5S (Verizon),4,Smart Phone

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Street,Postal,City,State,DStreet,DPostal,DCity,DState,DefaultAddress
+1,Yes,,TC_25_ChangingAddressAndVerifyUpdatedAddressAsDefaultAddress,Verify User can changing and making default address,renuka.chintala@cigniti.com,hyderabad12345,83784,160 Broadway,10038-4201,New York,NY,55 water st,10041-0004,New York,NY,Yes

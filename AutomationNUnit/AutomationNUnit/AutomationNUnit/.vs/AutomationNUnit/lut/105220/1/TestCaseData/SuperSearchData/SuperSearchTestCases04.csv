@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Address_User
+1,Yes,,TC_04_VerifyNewTicketButtonInInventoryTabAndCreateTicket,Select the Check Box for the Inventory Click on New Ticket button,balaji.dasari@cigniti.com,hyderabad12345,9994,55 Water st

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Module,WTN
+1,Yes,,TC_38_VerifyWTNWhenUsersAssignedToThatInventoryShouldDisplayInUsersFilter,Verify when searched a WTN Users assigned to that inventory should display in Users filter,mettel@cigniti.com,cigniti1,83784,Inventory,3342726415

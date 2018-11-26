@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Category,SubCat,Vendor,Product,QTY,Address,Postal,Section
+1,Yes,,TC_51_VerifyServiceAddressSectionEditButtonInReviewPage,Verify Service Address Section Edit Button In Review Page,renuka.chintala@cigniti.com,hyderabad12345,9994,Wireless,Smart Phone,Verizon,Apple iPhone 6 Plus (Verizon),1,160 Broadway,10038,Service Address

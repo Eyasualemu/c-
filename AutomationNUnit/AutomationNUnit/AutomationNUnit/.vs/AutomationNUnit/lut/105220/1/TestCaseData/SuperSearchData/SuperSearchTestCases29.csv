@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,User_USDA,User_Mettel,ClientNum
+1,Yes,,TC_29_VerifyOtherClientUsersAreNotSearchableWhenSwitchedToAClient,Verify Mettel Users or other Client users are not searchable when switched to a Client,renuka.chintala@cigniti.com,hyderabad12345,9994,Linda Marquette,Gouri,9994

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,HighHierarchy,LowHierarchy
+1,Yes,,TC_37_VerifyClientUserWithLowHierarchyCannotSearchUsersWithHighLevelHierarchy,Verify Client user with low hierarchy cannot search users with high level hirarchy,gourishankar.nanoota@cigniti.com,cigniti1,9994,Runhuin,rnk

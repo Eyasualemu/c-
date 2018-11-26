@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Desc,Number
+1,Yes,,TC_22_VerifyUpdatedDescriptionIsDisplayedForLine,Verify user can scroll down the Ticket tab results and sort the columns,renuka.chintala@cigniti.com,hyderabad12345,9994,AutoTest,1

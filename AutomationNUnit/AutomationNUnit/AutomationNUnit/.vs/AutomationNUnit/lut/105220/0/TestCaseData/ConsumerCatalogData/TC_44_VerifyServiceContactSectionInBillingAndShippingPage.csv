@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Category,SubCat,Vendor,Product,QTY
+1,Yes,,TC_43_VerifySectionsInBillingAndShippingPage,Verify Sections In Billing And Shipping Page,renuka.chintala@cigniti.com,hyderabad12345,9994,Wireless,Smart Phone,VERIZON,Apple iPhone 6 Plus (Verizon),1

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,WTN_Num,Account
+1,Yes,,TC_13_SearchLocationFilterWithAccountOrSubAccount,Search Location filter with Account or Sub Account,renuka.chintala@cigniti.com,hyderabad12345,#OClientId,9876543210,1209ATTNETWORX

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,WTN_Num,ClientName
+1,Yes,,TC_09_SearchWithWTNAndClient,Search with a WTN and Client,renuka.chintala@cigniti.com,hyderabad12345,9994,9876543210,USDA

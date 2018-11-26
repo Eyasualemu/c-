@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,CostPageMonth,ClientId,Address,Postal,Test,Module,SubModule,Vendor
+1,Yes,,TC_01ContractManagementUIVerification,Verification of contract management UI and workflow,renuka.chintala@cigniti.com,hyderabad12345,January 2015 - February 2015,83784,160 Broadway,10038,Test,Administration,Edit Client,MetTel

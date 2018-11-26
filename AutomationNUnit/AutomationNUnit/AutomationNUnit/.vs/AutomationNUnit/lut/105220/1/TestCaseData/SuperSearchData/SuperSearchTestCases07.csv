@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Ticket_Num
+1,Yes,,TC_07_VerifyTicketSearchResultsAndOpenTicketButton,Verify ticket search results and Open Location button,balaji.dasari@cigniti.com,hyderabad12345,MUTLI AGENCY GOVERNMENT,3513375
